@@ -1,15 +1,10 @@
-import Button from "./Components/Button";
-import Card from "./Components/Card";
-import SideBar from "./Components/SideBar";
-import TopBar from "./Components/TopBar";
+import Home from "./Components/Home";
 
 export default function App() {
+
   return (
-    <>
-      <TopBar />
-      <SideBar />
-      <Button />
-      <Card />
-    </>
+    <div className="max-h-screen bg-[#F2F6FF] overflow-hidden">
+      <Home />
+    </div>
   )
 }
