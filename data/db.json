@@ -1,0 +1,222 @@
+{
+  "userData": [
+    {
+      "UserImage": "https://pbs.twimg.com/profile_images/830196516040097794/S11UOtZy_400x400.jpg",
+      "AccountNumber": "1234567890",
+      "AvailableBalance": 5000.25,
+      "AccountType": "Savings",
+      "TransactionHistory": [
+        {
+          "ID": 1,
+          "Amount": 1200.75,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-01"
+        },
+        {
+          "ID": 2,
+          "Amount": 500.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-02"
+        },
+        {
+          "ID": 3,
+          "Amount": 200.50,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-03"
+        },
+        {
+          "ID": 4,
+          "Amount": 100.25,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-04"
+        },
+        {
+          "ID": 5,
+          "Amount": 300.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-05"
+        },
+        {
+          "ID": 6,
+          "Amount": 150.50,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-06"
+        },
+        {
+          "ID": 7,
+          "Amount": 2000.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-07"
+        },
+        {
+          "ID": 8,
+          "Amount": 250.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-08"
+        },
+        {
+          "ID": 9,
+          "Amount": 180.75,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-09"
+        },
+        {
+          "ID": 10,
+          "Amount": 800.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-10"
+        },
+        {
+          "ID": 11,
+          "Amount": 750.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-11"
+        },
+        {
+          "ID": 12,
+          "Amount": 100.0,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-12"
+        },
+        {
+          "ID": 13,
+          "Amount": 400.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-13"
+        },
+        {
+          "ID": 14,
+          "Amount": 300.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-14"
+        },
+        {
+          "ID": 15,
+          "Amount": 250.50,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-15"
+        },
+        {
+          "ID": 16,
+          "Amount": 1300.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-16"
+        },
+        {
+          "ID": 17,
+          "Amount": 650.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-17"
+        },
+        {
+          "ID": 18,
+          "Amount": 190.75,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-18"
+        },
+        {
+          "ID": 19,
+          "Amount": 100.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-19"
+        },
+        {
+          "ID": 20,
+          "Amount": 700.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-20"
+        },
+        {
+          "ID": 21,
+          "Amount": 80.50,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-21"
+        },
+        {
+          "ID": 22,
+          "Amount": 1600.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-22"
+        },
+        {
+          "ID": 23,
+          "Amount": 550.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-23"
+        },
+        {
+          "ID": 24,
+          "Amount": 170.75,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-24"
+        },
+        {
+          "ID": 25,
+          "Amount": 1100.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-25"
+        },
+        {
+          "ID": 26,
+          "Amount": 600.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-26"
+        },
+        {
+          "ID": 27,
+          "Amount": 300.75,
+          "Type": "Payment",
+          "Status": "Completed",
+          "Date": "2023-10-27"
+        },
+        {
+          "ID": 28,
+          "Amount": 900.0,
+          "Type": "Deposit",
+          "Status": "Completed",
+          "Date": "2023-10-28"
+        },
+        {
+          "ID": 29,
+          "Amount": 480.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-29"
+        },
+        {
+          "ID": 30,
+          "Amount": 950.0,
+          "Type": "Withdrawal",
+          "Status": "Completed",
+          "Date": "2023-10-30"
+        }
+      ]
+    }
+  ]
+}
