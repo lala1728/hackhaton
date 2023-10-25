@@ -1,7 +1,15 @@
+import Button from "./Components/Button";
+import Card from "./Components/Card";
+import SideBar from "./Components/SideBar";
+import TopBar from "./Components/TopBar";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <>
+      <TopBar />
+      <SideBar />
+      <Button />
+      <Card />
+    </>
   )
 }
